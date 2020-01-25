@@ -2,7 +2,7 @@ package pl.sda.javakrk25.day5;
 
 import java.util.Random;
 //create simple program for histogram drawing
-
+//comment on master
 public class Zad_14_histogram {
 
     public static void main(String[] args) {
