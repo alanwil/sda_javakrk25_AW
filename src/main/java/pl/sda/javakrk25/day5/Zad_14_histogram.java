@@ -1,7 +1,7 @@
 package pl.sda.javakrk25.day5;
 
 import java.util.Random;
-//create simple program for histogram
+//create simple program for histogram drawing
 
 public class Zad_14_histogram {
 
